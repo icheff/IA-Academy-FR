@@ -1,39 +1,13 @@
-<section id="iGylsLx" data-type="section">
-      <style id="riQHdbC" type="text/css">
+<section id="iGylsLx" data-type="section"><style id="riQHdbC" type="text/css">
         
     @media screen and (min-width:0px){#iGylsLx{width:100px;height:100px;position:absolute;z-index:1;top:0;left:0;margin:15px;}}
     @media screen and (min-width:0px){#qLjUvsa{width:100px;height:100px;display:grid;place-content:center;}}
     @media screen and (min-width:0px){#ukeAdNU{height:100%;width:100%;}}
     
-      </style>
-      
-        <div id="qLjUvsa" data-type="grid">
-            <img id="ukeAdNU" src="https://raw.githubusercontent.com/icheff/IA-Academy-FR/main/media/images/ia-academy-logo-white_200x200.png" data-type="img-grid" loading="lazy">    
-        </div>
-
-
-      <button class="toolbar-open" onclick="toolsOpenModal(this)">
-        <img src="../global/file/edit-section.svg" data-type="img-edit">
-      </button>
-  </section>
-  
-    
-    
-    <section id="xyHmWeq" data-type="section">
-      <style id="cYnXPSQ" type="text/css">
+      </style><div id="qLjUvsa" data-type="grid"><img id="ukeAdNU" src="https://raw.githubusercontent.com/icheff/IA-Academy-FR/main/media/images/ia-academy-logo-white_200x200.png" data-type="img-grid" loading="lazy"></div><button class="toolbar-open" onclick="toolsOpenModal(this)"><img src="../global/file/edit-section.svg" data-type="img-edit"></button></section><section id="xyHmWeq" data-type="section"><style id="cYnXPSQ" type="text/css">
         
     @media screen and (min-width:0px){#xyHmWeq{width:100px;height:100px;position:absolute;z-index:1;top:0;right:0;margin:15px;}}
     @media screen and (min-width:0px){#nzZmZCm{width:100px;height:100px;display:grid;place-content:center;}}
     @media screen and (min-width:0px){#qzjiYfD{height:100%;width:100%;}}
     
-      </style>
-      
-        <div id="nzZmZCm" data-type="grid">
-            <img id="qzjiYfD" src="https://raw.githubusercontent.com/icheff/IA-Academy-FR/main/media/images/menu_256x256.png" data-type="img-grid" loading="lazy">    
-        </div>
-
-
-      <button class="toolbar-open" onclick="toolsOpenModal(this)">
-        <img src="../global/file/edit-section.svg" data-type="img-edit">
-      </button>
-  </section>
+      </style><div id="nzZmZCm" data-type="grid"><img id="qzjiYfD" src="https://raw.githubusercontent.com/icheff/IA-Academy-FR/main/media/images/menu-2_256x256.png" data-type="img-grid" loading="lazy"></div><button class="toolbar-open" onclick="toolsOpenModal(this)"><img src="../global/file/edit-section.svg" data-type="img-edit"></button></section>
