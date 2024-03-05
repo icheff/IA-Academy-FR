@@ -1,45 +1,4 @@
-<section id="KRqyjGK" data-type="section">
-      <style id="rpmKryh" type="text/css">
-        
-    @media screen and (min-width:0px){#KRqyjGK{width:100vw;height:100vh;position:relative}}
-
-    @media screen and (min-width:0px){#nHkeBmw{width:100%;height:100%;display:grid;place-content:center; grid-template-columns: 1fr 1fr;}}
-    @media screen and (min-width:0px){#uYpwahH{object-fit:cover;height:100%;min-height:100vh;width:100%;background:white;}}
-    @media screen and (min-width:0px){#afJdYkV{display:grid;place-content:center;padding:5%; background:white;}}
-    @media screen and (min-width:0px){#cBAdVBy{font-size: clamp(3rem, 6vw, 8rem);line-height:1;}}
-    @media screen and (min-width:0px){#kfHFrKZ{font-size:1rem;}}
-
-    @media screen and (max-width:640px){#nHkeBmw{width:100%;height:100%;display:grid;place-content:center; grid-template-columns: 1fr;}}
-    @media screen and (max-width:640px){#uYpwahH{object-fit:cover;height:100%;min-height:50vh;width:100%; display:grid;order:1;}}
-    @media screen and (max-width:640px){#afJdYkV{min-height:50vh;display:grid;place-content:end;padding:10%; background:white;}}
-    
-    
-      </style>
-      
-        <div id="nHkeBmw" data-type="grid">
-        
-        <video id="uYpwahH" autoplay="" loop="" muted="" data-type="vid-grid">
-          <source src="https://vod-progressive.akamaized.net/exp=1709668135~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F4093%2F14%2F370467553%2F1536339761.mp4~hmac=ccb226279ef4efc60149bb129e3dc0c69c9067b5544a15771341e93cee188aa5/vimeo-prod-skyfire-std-us/01/4093/14/370467553/1536339761.mp4" type="video/mp4">
-        </video>
-      
-        <div id="afJdYkV">
-          <h1 id="cBAdVBy" contenteditable="true"> Devenez Expert en IA Generative! </h1>
-          <p id="kfHFrKZ" contenteditable="true"> Lorem ipsum dolor sit amet </p>
-          <div id="RolpxTy">
-            <a id="ogfDXjv" contenteditable="true" href="https://www">LOREM IPSUM</a>
-            <a id="vCuDVGz" contenteditable="true" href="https://www">LOREM IPSUM</a>
-          </div>
-        </div>
-
-        </div>
-
-
-      <button class="toolbar-open" onclick="toolsOpenModal(this)">
-        <img src="../global/file/edit-section.svg" data-type="img-edit">
-      </button>
-  </section>
-    
-    <section id="VPTgVfy" data-type="section">
+<section id="VPTgVfy" data-type="section">
     <style id="YFIlMsg" type="text/css">
       
     @media screen and (min-width:0px){#VPTgVfy{width:100vw;height:100vh;position:relative}}
@@ -99,4 +58,43 @@
     <button class="toolbar-open" onclick="toolsOpenModal(this)">
       <img src="../global/file/edit-section.svg">
     </button>
+  </section><section id="KRqyjGK" data-type="section">
+      <style id="rpmKryh" type="text/css">
+        
+    @media screen and (min-width:0px){#KRqyjGK{width:100vw;height:100vh;position:relative}}
+
+    @media screen and (min-width:0px){#nHkeBmw{width:100%;height:100%;display:grid;place-content:center; grid-template-columns: 1fr 1fr;}}
+    @media screen and (min-width:0px){#uYpwahH{object-fit:cover;height:100%;min-height:100vh;width:100%;background:white;}}
+    @media screen and (min-width:0px){#afJdYkV{display:grid;place-content:center;padding:5%; background:white;}}
+    @media screen and (min-width:0px){#cBAdVBy{font-size: clamp(3rem, 6vw, 8rem);line-height:1;}}
+    @media screen and (min-width:0px){#kfHFrKZ{font-size:1rem;}}
+
+    @media screen and (max-width:640px){#nHkeBmw{width:100%;height:100%;display:grid;place-content:center; grid-template-columns: 1fr;}}
+    @media screen and (max-width:640px){#uYpwahH{object-fit:cover;height:100%;min-height:50vh;width:100%; display:grid;order:1;}}
+    @media screen and (max-width:640px){#afJdYkV{min-height:50vh;display:grid;place-content:end;padding:10%; background:white;}}
+    
+    
+      </style>
+      
+        <div id="nHkeBmw" data-type="grid">
+        
+        <video id="uYpwahH" autoplay="" loop="" muted="" data-type="vid-grid">
+          <source src="https://vod-progressive.akamaized.net/exp=1709668135~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F4093%2F14%2F370467553%2F1536339761.mp4~hmac=ccb226279ef4efc60149bb129e3dc0c69c9067b5544a15771341e93cee188aa5/vimeo-prod-skyfire-std-us/01/4093/14/370467553/1536339761.mp4" type="video/mp4">
+        </video>
+      
+        <div id="afJdYkV">
+          <h1 id="cBAdVBy" contenteditable="true"> Devenez Expert en IA Generative! </h1>
+          <p id="kfHFrKZ" contenteditable="true"> Lorem ipsum dolor sit amet </p>
+          <div id="RolpxTy">
+            <a id="ogfDXjv" contenteditable="true" href="https://www">LOREM IPSUM</a>
+            <a id="vCuDVGz" contenteditable="true" href="https://www">LOREM IPSUM</a>
+          </div>
+        </div>
+
+        </div>
+
+
+      <button class="toolbar-open" onclick="toolsOpenModal(this)">
+        <img src="../global/file/edit-section.svg" data-type="img-edit">
+      </button>
   </section>
