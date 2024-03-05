@@ -1,46 +1,35 @@
-<section id="ChTDgzv" data-type="section">
-      <style id="ingqeEE" type="text/css">
+<section id="ntSwqWz" data-type="section">
+      <style id="wUYKmAr" type="text/css">
         
-    @media screen and (min-width:0px){#ghqHfgt{width:100%;height:100%;object-fit:cover;position:absolute;top:0; z-index:-10; background:inherit;}}
-    @media screen and (min-width:0px){#FVCmTgl{width:100%;height:100%;object-fit:cover;position:absolute;top:0; z-index:-10; background:inherit;}}
-    @media screen and (min-width:0px){#ucKcKvs{width:100%;height:100%;object-fit:cover;position:absolute;top:0; z-index:-10; background:inherit;}}
-    @media screen and (min-width:0px){#YhScztH{width:100%;height:100%;object-fit:cover;position:absolute;top:0; z-index:-10; background:inherit;}}
-    
-    @media screen and (min-width:0px){#ChTDgzv{width:100vw;height:100vh;position:relative}}
+    @media screen and (min-width:0px){#ntSwqWz{width:100vw;height:100vh;position:relative}}
 
-    @media screen and (min-width:0px){#PNUEFgV{width:100%;height:100%;display:grid;place-content:center; grid-template-columns: 1fr 1fr;}}
-    @media screen and (min-width:0px){#dTDoRmf{object-fit:cover;height:100%;min-height:100vh;width:100%;}}
-    @media screen and (min-width:0px){#jBaKCIi{display:grid;place-content:center;padding:5%;}}
-    @media screen and (min-width:0px){#RqiJGhf{font-size: clamp(3rem, 6vw, 8rem);line-height:1;}}
-    @media screen and (min-width:0px){#bzQKiMS{font-size:1rem;}}
+    @media screen and (min-width:0px){#lqpZbJy{width:100%;height:100%;display:grid;place-content:center; grid-template-columns: 1fr 1fr;}}
+    @media screen and (min-width:0px){#WMQJppe{object-fit:cover;height:100%;min-height:100vh;width:100%;background:white;}}
+    @media screen and (min-width:0px){#FbJrMya{display:grid;place-content:center;padding:5%; background:white;}}
+    @media screen and (min-width:0px){#viVEOgE{font-size: clamp(3rem, 6vw, 8rem);line-height:1;}}
+    @media screen and (min-width:0px){#lqEKeUo{font-size:1rem;}}
 
-    @media screen and (max-width:640px){#PNUEFgV{width:100%;height:100%;display:grid;place-content:center; grid-template-columns: 1fr;}}
-    @media screen and (max-width:640px){#dTDoRmf{object-fit:cover;height:100%;min-height:50vh;width:100%; display:grid;order:1;}}
-    @media screen and (max-width:640px){#jBaKCIi{min-height:50vh;display:grid;place-content:end;padding:10%; }}
+    @media screen and (max-width:640px){#lqpZbJy{width:100%;height:100%;display:grid;place-content:center; grid-template-columns: 1fr;}}
+    @media screen and (max-width:640px){#WMQJppe{object-fit:cover;height:100%;min-height:50vh;width:100%; display:grid;order:1;}}
+    @media screen and (max-width:640px){#FbJrMya{min-height:50vh;display:grid;place-content:end;padding:10%; background:white;}}
     
     
       </style>
       
-        <div id="EHFQngA" data-type="backgrounds">
+        <div id="lqpZbJy" data-type="grid">
+        
+        <video id="WMQJppe" autoplay="" loop="" muted="" data-type="vid-grid">
+          <source src="https://vod-progressive.akamaized.net/exp=1709668135~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F4093%2F14%2F370467553%2F1536339761.mp4~hmac=ccb226279ef4efc60149bb129e3dc0c69c9067b5544a15771341e93cee188aa5/vimeo-prod-skyfire-std-us/01/4093/14/370467553/1536339761.mp4" type="video/mp4">
+        </video>
       
-          <div id="ghqHfgt" data-type="bg-color" class="div-visible">
-            <div id="FVCmTgl" data-type="solid-color" class="div-visible" style="background: rgb(242 246 246);"></div>
-            <div id="ucKcKvs" data-type="radial-color" class="div-hidden" style="background: radial-gradient(circle, rgb(235, 235, 235), rgb(235, 235, 235));"></div>
-            <div id="YhScztH" data-type="linear-color" class="div-hidden" style="background: linear-gradient(0deg, rgb(235, 235, 235), rgb(235, 235, 235));"></div>
-          </div> <!-- bg-color -->
-
-        </div> <!-- backgrounds -->
-        <div id="PNUEFgV" data-type="grid">
-
-            <img id="dTDoRmf" src="https://images.unsplash.com/photo-1606836606984-ceb5bbc93e28?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwxOXx8ZnJlZWxhbmNlcnxlbnwwfDB8fHwxNzA5NjUwNDAyfDA&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="img-grid" loading="lazy">
-            <div id="jBaKCIi">
-              <h1 id="RqiJGhf" contenteditable="true"> Devenez Expert en IA Generative! </h1>
-              <p id="bzQKiMS" contenteditable="true"> Lorem ipsum dolor sit amet </p>
-              <div id="inZCNGH">
-                <a id="KXugiFd" contenteditable="true" href="https://www">LOREM IPSUM</a>
-                <a id="LSYFvuS" contenteditable="true" href="https://www">LOREM IPSUM</a>
-              </div> <!-- div2ID -->
-            </div>
+        <div id="FbJrMya">
+          <h1 id="viVEOgE" contenteditable="true"> Devenez Expert en IA Generative! </h1>
+          <p id="lqEKeUo" contenteditable="true"> Lorem ipsum dolor sit amet </p>
+          <div id="PBaPqaa">
+            <a id="aCqasyX" contenteditable="true" href="https://www">LOREM IPSUM</a>
+            <a id="OaZDXVA" contenteditable="true" href="https://www">LOREM IPSUM</a>
+          </div>
+        </div>
 
         </div>
 
