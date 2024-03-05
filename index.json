@@ -1,33 +1,33 @@
-<section id="ntSwqWz" data-type="section">
-      <style id="wUYKmAr" type="text/css">
+<section id="Flrkhtw" data-type="section">
+      <style id="pmnJOeR" type="text/css">
         
-    @media screen and (min-width:0px){#ntSwqWz{width:100vw;height:100vh;position:relative}}
+    @media screen and (min-width:0px){#Flrkhtw{width:100vw;height:100vh;position:relative}}
 
-    @media screen and (min-width:0px){#lqpZbJy{width:100%;height:100%;display:grid;place-content:center; grid-template-columns: 1fr 1fr;}}
-    @media screen and (min-width:0px){#WMQJppe{object-fit:cover;height:100%;min-height:100vh;width:100%;background:white;}}
-    @media screen and (min-width:0px){#FbJrMya{display:grid;place-content:center;padding:5%; background:white;}}
-    @media screen and (min-width:0px){#viVEOgE{font-size: clamp(3rem, 6vw, 8rem);line-height:1;}}
-    @media screen and (min-width:0px){#lqEKeUo{font-size:1rem;}}
+    @media screen and (min-width:0px){#tsfmPoY{width:100%;height:100%;display:grid;place-content:center; grid-template-columns: 1fr 1fr;}}
+    @media screen and (min-width:0px){#KGHPGwz{object-fit:cover;height:100%;min-height:100vh;width:100%;background:white;}}
+    @media screen and (min-width:0px){#odsPWzq{display:grid;place-content:center;padding:5%; background:white;}}
+    @media screen and (min-width:0px){#ygsqlYH{font-size: clamp(3rem, 6vw, 8rem);line-height:1;}}
+    @media screen and (min-width:0px){#ZOZfVmg{font-size:1rem;}}
 
-    @media screen and (max-width:640px){#lqpZbJy{width:100%;height:100%;display:grid;place-content:center; grid-template-columns: 1fr;}}
-    @media screen and (max-width:640px){#WMQJppe{object-fit:cover;height:100%;min-height:50vh;width:100%; display:grid;order:1;}}
-    @media screen and (max-width:640px){#FbJrMya{min-height:50vh;display:grid;place-content:end;padding:10%; background:white;}}
+    @media screen and (max-width:640px){#tsfmPoY{width:100%;height:100%;display:grid;place-content:center; grid-template-columns: 1fr;}}
+    @media screen and (max-width:640px){#KGHPGwz{object-fit:cover;height:100%;min-height:50vh;width:100%; display:grid;order:1;}}
+    @media screen and (max-width:640px){#odsPWzq{min-height:50vh;display:grid;place-content:end;padding:10%; background:white;}}
     
     
       </style>
       
-        <div id="lqpZbJy" data-type="grid">
+        <div id="tsfmPoY" data-type="grid">
         
-        <video id="WMQJppe" autoplay="" loop="" muted="" data-type="vid-grid">
+        <video id="KGHPGwz" autoplay="" loop="" muted="" data-type="vid-grid">
           <source src="https://vod-progressive.akamaized.net/exp=1709668135~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F4093%2F14%2F370467553%2F1536339761.mp4~hmac=ccb226279ef4efc60149bb129e3dc0c69c9067b5544a15771341e93cee188aa5/vimeo-prod-skyfire-std-us/01/4093/14/370467553/1536339761.mp4" type="video/mp4">
         </video>
       
-        <div id="FbJrMya">
-          <h1 id="viVEOgE" contenteditable="true"> Devenez Expert en IA Generative! </h1>
-          <p id="lqEKeUo" contenteditable="true"> Lorem ipsum dolor sit amet </p>
-          <div id="PBaPqaa">
-            <a id="aCqasyX" contenteditable="true" href="https://www">LOREM IPSUM</a>
-            <a id="OaZDXVA" contenteditable="true" href="https://www">LOREM IPSUM</a>
+        <div id="odsPWzq">
+          <h1 id="ygsqlYH" contenteditable="true"> Devenez Expert en IA Generative! </h1>
+          <p id="ZOZfVmg" contenteditable="true"> Lorem ipsum dolor sit amet </p>
+          <div id="hQrAqWP">
+            <a id="VoRBeNv" contenteditable="true" href="https://www">LOREM IPSUM</a>
+            <a id="zlWDktj" contenteditable="true" href="https://www">LOREM IPSUM</a>
           </div>
         </div>
 
