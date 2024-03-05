@@ -1,0 +1,40 @@
+<section id="RDcVdAr" data-type="section">
+      <style id="HuOOezo" type="text/css">
+        
+    @media screen and (min-width:0px){#RDcVdAr{width:100vw;height:100vh;position:relative}}
+
+    @media screen and (min-width:0px){#ouNWHAG{width:100%;height:100%;display:grid;place-content:center; grid-template-columns: 1fr 1fr;}}
+    @media screen and (min-width:0px){#XqwieZE{object-fit:cover;height:100%;min-height:100vh;width:100%;background:white;}}
+    @media screen and (min-width:0px){#LGYoVXl{display:grid;place-content:center;padding:5%; background:white;}}
+    @media screen and (min-width:0px){#nNHxRYz{font-size: clamp(3rem, 6vw, 8rem);line-height:1;}}
+    @media screen and (min-width:0px){#bSHdksV{font-size:1rem;}}
+
+    @media screen and (max-width:640px){#ouNWHAG{width:100%;height:100%;display:grid;place-content:center; grid-template-columns: 1fr;}}
+    @media screen and (max-width:640px){#XqwieZE{object-fit:cover;height:100%;min-height:50vh;width:100%; display:grid;order:1;}}
+    @media screen and (max-width:640px){#LGYoVXl{min-height:50vh;display:grid;place-content:end;padding:10%; background:white;}}
+    
+    
+      </style>
+      
+        <div id="ouNWHAG" data-type="grid">
+        
+        <video id="XqwieZE" autoplay="" loop="" muted="" data-type="vid-grid">
+          <source src="https://vod-progressive.akamaized.net/exp=1709668135~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F4093%2F14%2F370467553%2F1536339761.mp4~hmac=ccb226279ef4efc60149bb129e3dc0c69c9067b5544a15771341e93cee188aa5/vimeo-prod-skyfire-std-us/01/4093/14/370467553/1536339761.mp4" type="video/mp4">
+        </video>
+      
+        <div id="LGYoVXl">
+          <h1 id="nNHxRYz" contenteditable="true"> Devenez Expert en IA Generative! </h1>
+          <p id="bSHdksV" contenteditable="true"> Lorem ipsum dolor sit amet </p>
+          <div id="ipwRWmr">
+            <a id="IXzlhVQ" contenteditable="true" href="https://www">LOREM IPSUM</a>
+            <a id="YCrymCL" contenteditable="true" href="https://www">LOREM IPSUM</a>
+          </div>
+        </div>
+
+        </div>
+
+
+      <button class="toolbar-open" onclick="toolsOpenModal(this)">
+        <img src="../global/file/edit-section.svg" data-type="img-edit">
+      </button>
+  </section>
