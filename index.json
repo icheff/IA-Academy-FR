@@ -16,10 +16,7 @@
     @media screen and (min-width:0px){#XruOnQP{border: 3px solid white; padding: 0 15px; color: white; font-size: 14px; border-radius: 10px; text-underline-position: under; height: 50px; display: grid; place-content: center;}}
     @media screen and (min-width:0px){#qYqmOkj{background: white; padding: 0 15px; color:black; font-size: 14px; border-radius: 10px; text-underline-position: under; height: 50px; display: grid; place-content: center;}}
     
-    </style><div id="gBBLjYo" data-type="container"><div id="TeEBpaO" data-type="backgrounds"><div id="AJNEUWx" data-type="bg-color" class="div-hidden"><div id="NBeCaCf" data-type="solid-color" class="div-visible" style="background: rgb(235, 235, 235);"></div><div id="NDlTmQC" data-type="radial-color" class="div-hidden" style="background: radial-gradient(circle, rgb(235, 235, 235), rgb(235, 235, 235));"></div><div id="pXbMvsC" data-type="linear-color" class="div-hidden" style="background: linear-gradient(0deg, rgb(235, 235, 235), rgb(235, 235, 235));"></div></div><!-- bg-color --><div id="XuTKXad" data-type="bg-image" class="div-hidden"><picture id="NWkCWmz"><source srcset="" media="(max-width:640px)"><source srcset="" media="(min-width:641px) and (max-width:1024px)"><img id="SlqfxOM" src="https://raw.githubusercontent.com/IAMEDIA360/images/main/empty.svg" data-type="img-bg" loading="lazy"></picture></div><!-- bg-image --><div id="fxqsJHx" data-type="bg-video" class="div-visible"><video id="ojRNROj" autoplay="" loop="" muted=""><source src="https://github.com/IAMEDIA360/videos/raw/main/1795203691-1.mp4" type="video/mp4"></video></div><!-- bg-video --></div><!-- backgrounds --><div id="mhJihfK" data-type="content"><div id="ngeicfL"><h2 id="MhhZOkE" contenteditable="true">Lorem ipsum dolor sit amet</h2><p id="DnHZJNv" contenteditable="true">Lorem ipsum dolor sit amet consectetur</p><div id="mLnMvLu"><a id="XruOnQP" contenteditable="true" href="https://www">LOREM IPSUM</a><a id="qYqmOkj" contenteditable="true" href="https://www">LOREM IPSUM</a></div><!-- div2ID --></div><!-- div1ID --></div><!-- content --></div><!-- container --><button class="toolbar-open" onclick="toolsOpenModal(this)"><img src="../global/file/edit-section.svg"></button></section>
-    
-    <section id="GLdXIhk" data-type="section">
-      <style id="LQYDHfh" type="text/css">
+    </style><div id="gBBLjYo" data-type="container"><div id="TeEBpaO" data-type="backgrounds"><div id="AJNEUWx" data-type="bg-color" class="div-hidden"><div id="NBeCaCf" data-type="solid-color" class="div-visible" style="background: rgb(235, 235, 235);"></div><div id="NDlTmQC" data-type="radial-color" class="div-hidden" style="background: radial-gradient(circle, rgb(235, 235, 235), rgb(235, 235, 235));"></div><div id="pXbMvsC" data-type="linear-color" class="div-hidden" style="background: linear-gradient(0deg, rgb(235, 235, 235), rgb(235, 235, 235));"></div></div><!-- bg-color --><div id="XuTKXad" data-type="bg-image" class="div-hidden"><picture id="NWkCWmz"><source srcset="" media="(max-width:640px)"><source srcset="" media="(min-width:641px) and (max-width:1024px)"><img id="SlqfxOM" src="https://raw.githubusercontent.com/IAMEDIA360/images/main/empty.svg" data-type="img-bg" loading="lazy"></picture></div><!-- bg-image --><div id="fxqsJHx" data-type="bg-video" class="div-visible"><video id="ojRNROj" autoplay="" loop="" muted=""><source src="https://github.com/IAMEDIA360/videos/raw/main/1795203691-1.mp4" type="video/mp4"></video></div><!-- bg-video --></div><!-- backgrounds --><div id="mhJihfK" data-type="content"><div id="ngeicfL"><h2 id="MhhZOkE" contenteditable="true">Lorem ipsum dolor sit amet</h2><p id="DnHZJNv" contenteditable="true">Lorem ipsum dolor sit amet consectetur</p><div id="mLnMvLu"><a id="XruOnQP" contenteditable="true" href="https://www">LOREM IPSUM</a><a id="qYqmOkj" contenteditable="true" href="https://www">LOREM IPSUM</a></div><!-- div2ID --></div><!-- div1ID --></div><!-- content --></div><!-- container --><button class="toolbar-open" onclick="toolsOpenModal(this)"><img src="../global/file/edit-section.svg"></button></section><section id="GLdXIhk" data-type="section"><style id="LQYDHfh" type="text/css">
         
     @media screen and (min-width:0px){#GLdXIhk{width:100vw;height:100vh;position:relative}}
 
@@ -34,37 +31,7 @@
     @media screen and (max-width:640px){#PgoEiXv{min-height:50vh;display:grid;place-content:end;padding:10%; background:white;}}
     
     
-      </style>
-      
-        <div id="Yrlfmjl" data-type="grid">
-        
-        <video id="BaaqJmA" autoplay="" loop="" muted="" data-type="vid-grid">
-          <source src="https://github.com/IAMEDIA360/videos/raw/main/1795203691-1.mp4" type="video/mp4">
-        </video>
-      
-        <div id="PgoEiXv">
-          <h1 id="iSDMDiq" contenteditable="true"> Devenez Expert en IA Generative! </h1>
-          <p id="gYVcjAH" contenteditable="true"> Lorem ipsum dolor sit amet </p>
-          <div id="PRaWDlL">
-            <a id="WEitToz" contenteditable="true" href="https://www">LOREM IPSUM</a>
-            <a id="npbiXFX" contenteditable="true" href="https://www">LOREM IPSUM</a>
-          </div>
-        </div>
-
-        </div>
-
-
-      <button class="toolbar-open" onclick="toolsOpenModal(this)">
-        <img src="../global/file/edit-section.svg" data-type="img-edit">
-      </button>
-  </section>
-    
-    
-  
-    
-    
-    <section id="FEQsTAV" data-type="section">
-    <style id="HXOZeBb" type="text/css">
+      </style><div id="Yrlfmjl" data-type="grid"><video id="BaaqJmA" autoplay="" loop="" muted="" data-type="vid-grid"><source src="https://github.com/IAMEDIA360/videos/raw/main/1795203691-1.mp4" type="video/mp4"></video><div id="PgoEiXv"><h1 id="iSDMDiq" contenteditable="true"> Devenez Expert en IA Generative! </h1><p id="gYVcjAH" contenteditable="true"> Lorem ipsum dolor sit amet </p><div id="PRaWDlL"><a id="WEitToz" contenteditable="true" href="https://www">LOREM IPSUM</a><a id="npbiXFX" contenteditable="true" href="https://www">LOREM IPSUM</a></div></div></div><button class="toolbar-open" onclick="toolsOpenModal(this)"><img src="../global/file/edit-section.svg" data-type="img-edit"></button></section><section id="FEQsTAV" data-type="section"><style id="HXOZeBb" type="text/css">
       
     @media screen and (min-width:0px){#FEQsTAV{width:100vw;height:100vh;position:relative}}
     @media screen and (min-width:0px){#RggzeMX{width:100%;height:100%;display:grid;place-content:center; grid-template-columns: 1fr 1fr;}}
@@ -74,17 +41,46 @@
     @media screen and (max-width:640px){#cwlAodQ{object-fit:cover;height:100%;min-height:50vh;width:100%}}
     @media screen and (max-width:640px){#SypEgTq{object-fit:cover;height:100%;min-height:50vh;width:100%}}
     
-    </style>
+    </style><div id="RggzeMX" data-type="grid"><img id="cwlAodQ" src="https://images.unsplash.com/photo-1596854307943-279e29c90c14?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwyMHx8Y2F0c3xlbnwwfDB8fHwxNzA4NzE2OTM5fDA&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="img-grid" loading="lazy"><img id="SypEgTq" src="https://images.unsplash.com/photo-1631722670977-60c8b22dfcaf?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwxOHx8cGFyZnVtfGVufDB8MHx8fDE3MDg3MTc2MTV8MA&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="img-grid" loading="lazy"></div><button class="toolbar-open" onclick="toolsOpenModal(this)"><img src="../global/file/edit-section.svg" data-type="img-edit"></button></section>
     
-      <div id="RggzeMX" data-type="grid">
- 
-          <img id="cwlAodQ" src="https://images.unsplash.com/photo-1596854307943-279e29c90c14?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwyMHx8Y2F0c3xlbnwwfDB8fHwxNzA4NzE2OTM5fDA&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="img-grid" loading="lazy">
-          <img id="SypEgTq" src="https://images.unsplash.com/photo-1631722670977-60c8b22dfcaf?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwxOHx8cGFyZnVtfGVufDB8MHx8fDE3MDg3MTc2MTV8MA&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="img-grid" loading="lazy">
-         
-      </div>
+    <section id="vZRwSjr" data-type="section">
+      <style id="OzMlMeu" type="text/css">
+        
+    @media screen and (min-width:0px){#vZRwSjr{width:100vw;height:100vh;position:relative}}
+
+    @media screen and (min-width:0px){#XoyVPod{width:100%;height:100%;display:grid;place-content:center; grid-template-columns: 1fr 1fr;}}
+    @media screen and (min-width:0px){#luaSzTK{object-fit:cover;height:100%;min-height:100vh;width:100%;background:white;}}
+    @media screen and (min-width:0px){#seFvxlh{display:grid;place-content:center;padding:5%; background:white;}}
+    @media screen and (min-width:0px){#mdfydia{font-size: clamp(3rem, 6vw, 8rem);line-height:1;}}
+    @media screen and (min-width:0px){#bSRfYYQ{font-size:1rem;}}
+
+    @media screen and (max-width:640px){#XoyVPod{width:100%;height:100%;display:grid;place-content:center; grid-template-columns: 1fr;}}
+    @media screen and (max-width:640px){#luaSzTK{object-fit:cover;height:100%;min-height:50vh;width:100%; display:grid;order:1;}}
+    @media screen and (max-width:640px){#seFvxlh{min-height:50vh;display:grid;place-content:end;padding:10%; background:white;}}
+    
+    
+      </style>
+      
+        <div id="XoyVPod" data-type="grid">
+        
+        <video id="luaSzTK" autoplay="" loop="" muted="" data-type="vid-grid" loading="lazy" src="https://player.vimeo.com/external/355357902.sd.mp4?s=7f8893a5bd3317484d203b2e6ac1aabd974915aa&amp;profile_id=139&amp;oauth2_token_id=57447761">
+          <source src="https://github.com/IAMEDIA360/videos/raw/main/1795203691-1.mp4" type="video/mp4">
+        </video>
+
+      
+        <div id="seFvxlh">
+          <h1 id="mdfydia" contenteditable="true"> Devenez Expert en IA Generative! </h1>
+          <p id="bSRfYYQ" contenteditable="true"> Lorem ipsum dolor sit amet </p>
+          <div id="jUVszeo">
+            <a id="GcCGMYo" contenteditable="true" href="https://www">LOREM IPSUM</a>
+            <a id="lNXAFdL" contenteditable="true" href="https://www">LOREM IPSUM</a>
+          </div>
+        </div>
+
+        </div>
 
 
-    <button class="toolbar-open" onclick="toolsOpenModal(this)">
-      <img src="../global/file/edit-section.svg" data-type="img-edit">
-    </button>
+      <button class="toolbar-open" onclick="toolsOpenModal(this)">
+        <img src="../global/file/edit-section.svg" data-type="img-edit">
+      </button>
   </section>
